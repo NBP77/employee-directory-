@@ -77,12 +77,12 @@ class Search extends Component {
             <button
               className="fa fa-caret-down p-2"
               onClick={() => this.sortNameBottom()}
-            >Down</button>
+            >Up</button>
             Name
             <button
               className="fa fa-caret-up p-2"
               onClick={() => this.sortNameTop()}
-            >Up</button>
+            >Down</button>
           </th>
           <Alert
             type="danger"
