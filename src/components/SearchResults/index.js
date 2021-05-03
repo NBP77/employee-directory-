@@ -6,8 +6,8 @@ function SearchResults(props) {
   return (
     <tbody className="list-group search-results">
       {props.results.map((result) => (
-        <tr key={result} className="list-group-item">
-          <td>
+        <tr key={result} className="list-group-item text-center align-middle">
+          <td className= "text-center align-middle"> 
             <img
               alt="Person"
               src={result.picture.thumbnail}

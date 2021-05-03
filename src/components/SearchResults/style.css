@@ -1,12 +1,7 @@
-ul.search-results img {
-  margin: 0 auto;
-}
 
-p { font-size: 20px;
+
+p { font-size: 22px;
 margin: 10px;
+padding: 10px;
 };
 
-td {
-  display: flex;
-  justify-content: center;
-}
