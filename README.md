@@ -34,7 +34,7 @@ To check the project, I worked on click on these links:
 
 GitHub: https://github.com/NBP77/employee-directory-
 
-Deployed app: 
+Deployed app: https://nbp77.github.io/employee-directory-/ 
 
 ## Usage
 
